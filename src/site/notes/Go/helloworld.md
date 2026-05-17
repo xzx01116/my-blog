@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/go/helloworld/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/go/helloworld/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
-你好
+你好啊
